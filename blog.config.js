@@ -17,8 +17,8 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://instagram.com/mcfawwaz',
+  ogImageGenerateURL: 'https://og-image-craigary.vercel.app/McFawwaz.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fnobelium.vercel.app%2Flogo-for-light-bg.svg', // The link to generate OG image, don't end with a slash
+  socialLink: 'https://gravatar.com/mailmcfawwaz',
   seo: {
     keywords: ['Mochammad Fawwaz Islami', 'Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
