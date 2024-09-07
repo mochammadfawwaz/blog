@@ -1,9 +1,9 @@
 const BLOG = {
   title: 'McFawwaz',
   author: 'Mochammad Fawwaz Islami',
-  email: 'mailmcfawwaz@gmai.com',
+  email: 'mailmcfawwaz@gmail.com',
   link: 'https://mcfawwaz.com',
-  description: 'Welcome to My Blog – a personal space where I share my thoughts, experiences, and passions.',
+  description: 'a personal space where I share my thoughts, experiences, and passions.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Jakarta', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
