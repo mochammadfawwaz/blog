@@ -1,26 +1,26 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: 'McFawwaz',
+  author: 'Mochammad Fawwaz Islami',
+  email: 'mailmcfawwaz@gmai.com',
+  link: 'https://mcfawwaz.com',
+  description: 'This gonna be an awesome Welcome to My Blog – a personal space where I share my thoughts, experiences, and passions. From diving into the world of finance with stock market analysis, to exploring the art of personal growth, and even enjoying the simplicity of life through tennis, this blog is where I capture it all. Whether you are here for insightful reflections or just to follow along my journey, I hope you find something meaningful that resonates with you.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
+  timezone: 'Asia/Jakarta', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // If leave this empty, current year will be used.
+  since: 2024, // If leave this empty, current year will be used.
   postsPerPage: 7,
-  sortByDate: false,
+  sortByDate: true,
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/craigaryhart',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion'],
+    keywords: ['Mochammad Fawwaz Islami', 'Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
